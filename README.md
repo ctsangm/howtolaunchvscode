@@ -1,4 +1,4 @@
-# howtolaunchvscode
+# how to launch vscode via Terminal on Mac OS
 How to set up VS Code to launch via Terminal on Mac OS
 1. Open VS Code
 2. Run Command + Shift + P
